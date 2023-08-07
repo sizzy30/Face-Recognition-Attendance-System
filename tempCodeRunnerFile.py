@@ -1,0 +1,1 @@
+C:\\Users\\HP\\Downloads\\Attendance-Management-system-using-face-recognition-master\\Attendance-Management-system-using-face-recognition-master\\StudentDetails\\studentdetails.csv
